@@ -1,6 +1,6 @@
 # ResidUP - A inovação que faltava no seu dia a dia!
 
-[PROJETO INTEGRADOR III - Turma B]
+[PROJETO DE CONCLUSÃO DO TERCEIRO SEMESTRE]
 
 <h1 align = "center"> <img src = "https://user-images.githubusercontent.com/88353387/234729533-3b74873b-4251-43ee-9f92-a73e09e5b320.png" /><h1/>
 
